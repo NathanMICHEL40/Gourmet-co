@@ -5,5 +5,6 @@ Avec une activité en pleine expansion, Gourmet&Co souhaite moderniser son infra
 
 # Schéma Réseau
 
-<img width="960" height="540" alt="Schéma réseau" src="https://github.com/user-attachments/assets/4e8182e0-9f91-4946-adef-b42ef03dff96" />
+<img width="712" height="864" alt="Shéma réseau gourmet   co drawio" src="https://github.com/user-attachments/assets/796a790c-3744-40d3-a2f9-168fe8d18fed" />
+
 
